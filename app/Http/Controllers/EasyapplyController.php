@@ -15,6 +15,7 @@ class EasyapplyController extends Controller
 
         $jobs = $response->json();
     }
+
     /**
      * Display a listing of the resource.
      */
